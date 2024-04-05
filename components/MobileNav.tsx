@@ -31,11 +31,11 @@ const MobileNav = () => {
             <Image
               src="/icons/logo.svg"
               alt="logo"
-              width={32}
-              height={32}
+              width={28}
+              height={28}
               className="max-sm:size-10"
             />
-            <p className="text-[26px] font-extrabold text-white">
+            <p className="text-[22px] font-extrabold text-white">
               Saddam | Room
             </p>
           </Link>
